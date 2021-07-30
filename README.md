@@ -14,7 +14,6 @@ Data Cleansing & EDA
 Conclusion
 Source (Download On Request) : https://www.nhlbi.nih.gov/science/framingham-heart-study-fhs
 
-https://images.medicinenet.com/images/illustrations/heart_attack.jpg
 
 **Details : 
 
