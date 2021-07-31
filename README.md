@@ -14,7 +14,8 @@ Data Cleansing & EDA
 Conclusion
 Source (Download On Request) : https://www.nhlbi.nih.gov/science/framingham-heart-study-fhs
 
-![congenital-heart-disease](https://user-images.githubusercontent.com/85118624/127722250-faff6043-97eb-4c8b-8cec-7fde440c5e71.jpg)
+![coronary-heart-disease-chd-n](https://user-images.githubusercontent.com/85118624/127723313-de5f65a3-b149-4a21-bc8b-cc02fd205b58.jpg)
+
 
 **Details : 
 
