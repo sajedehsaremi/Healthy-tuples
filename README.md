@@ -1,5 +1,5 @@
 # P1--healthy-tuples
-<<<<<<< HEAD
+
 **Analysis of Framingham Heart Study
 =======
 
@@ -72,7 +72,7 @@ we will look at prevalence of different risk factors, and see which ones are com
 
 The Framingham Risk Score (FRS) has driven cardiovascular disease risk screening for many years. In general, there are 2 main problems with current dataset. First, this screening happened based on known risk factors and not the actual presence of disease. Second, it is based on epidemiology.
 Epidemiologic data can be tricky because it tells us about issues in a given population. However, it does NOT necessarily indicate risk for a specific person.
->>>>>>> aedcb661887a552e5335746579e69e6e79234254
+
 
 **Domain :
 
